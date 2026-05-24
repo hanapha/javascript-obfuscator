@@ -4,7 +4,7 @@ const filesToCache = [
 	"script.js",
 	"script.json",
 	"image.png",
-	"JavaScriptObfuscatorFavIcon_16x16.png",
+	"favicon_16.png",
 	"favicon_192.png",
 	"favicon_512.png",
 	"logo.png"
